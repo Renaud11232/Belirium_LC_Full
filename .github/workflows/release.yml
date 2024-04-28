@@ -21,8 +21,8 @@ jobs:
           categories: |
             modpacks
           deps: |
-            Renaud11232-Belirium_LC_Core@0.0.1
-            Renaud11232-Belirium_LC_QoL@0.0.1
-            Renaud11232-Belirium_LC_Fun@0.0.1
-            Renaud11232-Belirium_LC_Moons@0.0.1
+            Renaud11232-Belirium_LC_Core@0.0.2
+            Renaud11232-Belirium_LC_QoL@0.0.2
+            Renaud11232-Belirium_LC_Fun@0.0.2
+            Renaud11232-Belirium_LC_Moons@0.0.2
             
